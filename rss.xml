@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Water Health Development ]]></title>
         <description><![CDATA[Water Health Development ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/water-health-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 19:09:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 19:12:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/water-health-development/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Water, Health and Development]]></title>
+            <description><![CDATA[<article><h1>Water, Health and Development</h1><p>During autumn 2015 both the Dutch Waterboard "WaterNet" (Amsterdam) and Van Hall Larenstein Univ. of Appl. Sci., (Velp) decided to join the Alliance to support and contribute to its mission. "Waternet" has a great expertise in water sanitation and drinkwater supply.</p><img src="http://www.water-health-development.org/_/rsrc/1448867168193/home/Schermafbeelding%202015-11-30%20om%2008.05.09.png"></article>]]></description>
+            <link>http://www.water-health-development.org/</link>
+            <guid isPermaLink="false">df2eef09-1901-453e-9333-2583328c931f</guid>
+            <pubDate>Mon, 22 Feb 2016 19:12:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Water Quality in the Bandung Basin (Upper Citarum River Basin), West Java, Indonesia]]></title>
             <description><![CDATA[<article><h1>Water Quality in the Bandung Basin (Upper Citarum River Basin), West Java, Indonesia</h1><p>An impression of the water quality in the Upper Citarum River Basin, West Java, Indonesia. Situation in January-June 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/748113952f6210ad52816d92da82b5cba0ebe145.jpg"></article>]]></description>
