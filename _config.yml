@@ -1,28 +1,26 @@
-name: 'Water Health Development '
-favicon: null
-layout_spectrum: 0.87135
-typography_spectrum: 0.38401
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3765957
+  brandStrength: 0.5382979
+  lightness: 0.7808511
   brandColors:
-    - '#f7bb71'
-    - '#d2661a'
-    - '#140000'
-    - '#6b2500'
-    - '#77502d'
-  brandStrength: 0.3125
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+    - '#0D0C0D'
+    - '#657630'
+    - '#B3B6BD'
+    - '#FFFFB4'
+    - '#FFFC42'
+  rhythmicContrast: 0.3765957
+typography_spectrum: 0.1489362
+layout_spectrum: 0.4127659
+name: 'Water Health Development '
