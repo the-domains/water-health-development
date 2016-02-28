@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Water Health Development ]]></title>
         <description><![CDATA[Water Health Development ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/water-health-development/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 19:15:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 13:43:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/water-health-development/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Water, Health and Development]]></title>
             <description><![CDATA[<article><h1>Water, Health and Development</h1><p>During autumn 2015 both the Dutch Waterboard "WaterNet" (Amsterdam) and Van Hall Larenstein Univ. of Appl. Sci., (Velp) decided to join the Alliance to support and contribute to its mission. "Waternet" has a great expertise in water sanitation and drinkwater supply.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e823aef9b29db769dc6a17f45ee891a04f4263e3.png"></article>]]></description>
             <link>http://www.water-health-development.org/</link>
             <guid isPermaLink="false">df2eef09-1901-453e-9333-2583328c931f</guid>
             <pubDate>Mon, 22 Feb 2016 19:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testdrive the grid ai]]></title>
+            <description><![CDATA[<article><h1>Testdrive the grid ai</h1><p>The website for water health development is een test voor the Grid. Ik dacht ik kan alleen met de iPhone werken, maar dat is niet zo.</p></article>]]></description>
+            <link>https://thegrid.ai/water-health-development/testdrive-the-grid-ai/index.html</link>
+            <guid isPermaLink="false">460105c6-1e4c-43c1-bf84-a38e27ae5d84</guid>
+            <pubDate>Sun, 28 Feb 2016 13:43:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
