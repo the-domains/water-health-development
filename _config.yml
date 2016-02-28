@@ -1,14 +1,28 @@
-layout_spectrum: 0.4127659
+name: 'Water Health Development '
+favicon: null
+layout_spectrum: 0.1411
+typography_spectrum: 0.1489362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3765957
-  brandStrength: 0.2143657
-  lightness: 0.7808511
-  rhythmicContrast: 0.3765957
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 0.1489362
-name: 'Water Health Development '
+  brandStrength: 0.3125
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
