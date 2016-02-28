@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3765957
+  saturation: 0.287234
   brandStrength: 0.5382979
-  lightness: 0.7808511
+  lightness: 0.7914894
   brandColors:
     - '#0D0C0D'
     - '#657630'
     - '#B3B6BD'
     - '#FFFFB4'
     - '#FFFC42'
-  rhythmicContrast: 0.3765957
-typography_spectrum: 0.1489362
+  rhythmicContrast: 0.5638298
+typography_spectrum: 0.2021277
 layout_spectrum: 0.4127659
 name: 'Water Health Development '
