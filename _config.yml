@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.2021277
 color:
   saturation: 0.287234
   brandStrength: 0.5382979
@@ -21,6 +22,5 @@ color:
     - '#FFFFB4'
     - '#FFFC42'
   rhythmicContrast: 0.5638298
-typography_spectrum: 0.2021277
-layout_spectrum: 0.4127659
+layout_spectrum: 0.8553191
 name: 'Water Health Development '
