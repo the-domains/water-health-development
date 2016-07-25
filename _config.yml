@@ -1,7 +1,7 @@
 name: 'Water Health Development '
 favicon: null
-layout_spectrum: 0.8553191
-typography_spectrum: 0.24273
+layout_spectrum: 0.37447973852977157
+typography_spectrum: 0.7092816140502691
 collections:
   - index:
       path: /
