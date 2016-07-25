@@ -1,3 +1,7 @@
+name: 'Water Health Development '
+favicon: null
+layout_spectrum: 0.8553191
+typography_spectrum: 0.2021277
 collections:
   - index:
       path: /
@@ -10,18 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Connecting water management to public health
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2212766
-  brandStrength: 0.5382979
-  lightness: 0.8851064
   brandColors:
     - '#0D0C0D'
     - '#657630'
     - '#B3B6BD'
     - '#FFFFB4'
     - '#FFFC42'
-  rhythmicContrast: 0.2297872
-typography_spectrum: 0.2021277
-layout_spectrum: 0.8553191
-name: 'Water Health Development '
-title: Connecting water management to public health
+  brandStrength: 0.5382979
+  lightness: 0.9375
+  saturation: 0.1875
+  rhythmicContrast: 0
+purpose: []
